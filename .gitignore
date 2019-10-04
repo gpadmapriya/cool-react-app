@@ -21,6 +21,16 @@
 # dotenv environment variables file
 .env
 
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
+*.yml
+
+aws.yml
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
